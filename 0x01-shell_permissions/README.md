@@ -15,7 +15,7 @@ In this directory we're going to explain some script of this project.
 <p> This script creates an empty file called "hello"</p>
 <li> <b> Execute </b> </li>                                       <p> This script adds permissions to execute "hello" to the owner </p>
 <li> <b> Multiple permissions </b> </li>                          <p> This script gives execute permissions to the owner and the group owner, and to the other users gives read permissions </p>
-<li> <b> </b> Everybody! </li> 
+<li> <b> Everybody! </b> </li> 
 <p> This script gives execution permissions to the owner, the group and other users to the file "hello"</p>
 <li> <b> James Bond </b> </li>
 <p> This script gives all the permissions to the other users to execute the file "hello" but doesn't give permissions to the owner, neither the group </p>
